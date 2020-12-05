@@ -8,10 +8,7 @@ You will need to provide:
 - password
 - Xiaomi's server region (`cn` - China, `de` - Germany etc.). Leave empty to check all available
 
-In return all of your devices connected to account will be listed, together with their name and IP address.
-
-## Windows
-Download and run [token_extractor.exe](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor/raw/master/token_extractor.exe).
+In return all of your devices connected to account will be listed, together with their name, IP address and more.
 
 ## Other platforms
 
